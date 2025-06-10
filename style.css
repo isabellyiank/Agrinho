@@ -1,0 +1,10 @@
+
+body {
+    /* Define a cor de fundo de **toda** a página como um azul claro céu */
+    background-color: #87CEEB; /* SkyBlue */
+}
+
+h1 {
+    /* Altera a fonte do título para Impact, com fallback para fantasy */
+    font-family: 'Impact', fantasy;
+}
